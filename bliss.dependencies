@@ -1,9 +1,9 @@
 [
   {
     "remote": "github",
-    "repository": "srgrusso/android_device_samsung_gtaxllte",
+    "repository": "BlissRoms-Devices/android_device_samsung_gtaxllte",
     "target_path": "device/samsung/gtaxllte",
-    "revision": "bliss-q"
+    "revision": "q"
   },
   {
     "remote": "github",
@@ -13,9 +13,9 @@
   },
   {
     "remote": "github",
-    "repository": "srgrusso/android_kernel_samsung_exynos7870",
+    "repository": "BlissRoms-Devices/android_kernel_samsung_exynos7870",
     "target_path": "kernel/samsung/exynos7870",
-    "revision": "10-m105"
+    "revision": "q"
   },
   {
     "remote": "github",
