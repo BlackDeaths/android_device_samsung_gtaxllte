@@ -1,9 +1,9 @@
 [
   {
     "remote": "github",
-    "repository": "srgrusso/android_vendor",
+    "repository": "BlissRoms-Devices/proprietary_vendor_samsung_gtaxllte",
     "target_path": "vendor/samsung/gtaxllte",
-    "revision": "gtaxllte-lineage-17.1_64"
+    "revision": "q"
   },
   {
     "remote": "github",
